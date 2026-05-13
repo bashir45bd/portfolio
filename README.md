@@ -61,6 +61,6 @@ It is built to represent a real-world developer profile including:
 ```bash
 # 🌐 Live Demo
 
-👉 https://bashir45bd.netlify.app/#hero)
+👉 https://bashir45bd.netlify.app
 
 ---
