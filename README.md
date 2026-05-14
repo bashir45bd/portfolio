@@ -58,9 +58,3 @@ It is built to represent a real-world developer profile including:
 - Google Fonts
 - CSS Animations
 
-```bash
-# 🌐 Live Demo
-
-👉 https://bashir45bd.netlify.app
-
----
